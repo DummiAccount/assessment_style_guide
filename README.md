@@ -29,3 +29,8 @@
 ## Edit your work.
 - It's natural to want to show every bit of hard work you've poured into your project, but at the end of the day, all we need is your final product. If there are notebooks or lines of code that you end up not using, don't keep them in your final repo submission.
 
+## Resources:
+[Github Documentation for using markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Adding images to a Github README.md](https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/)
+

@@ -6,6 +6,7 @@
     - A great reason for starting a new notebook is that you have completed the task at hand and are moving on to another, possibly related, task.
     - For example, data collection (i.e. web scraping or querying an API) and storage (saving data to a `.json` or `.csv` file, inserting into a database etc.) could be done in one notebook which is followed by another for data processing and some initial data analysis.
     - It's a good idea to have seperate folders in your repo for things like data files, notebooks, images, reports, etc
+    - Make sure your files and folders are labeled in such a way that indicates what order they should be viewed in (this is particularly important for your notebooks)
 
 ## README.md
 - Think of your README.md as your landing page for your project. Before a viewer dives into your files, what do you want them to know about your project? Here are some recommendations for your project README.mds:
